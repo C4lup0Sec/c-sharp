@@ -1,0 +1,4 @@
+C:\Users\Carlos\repos\C#\session4\obj\Debug\netcoreapp2.0\session4.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\repos\C#\session4\obj\Debug\netcoreapp2.0\session4.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\repos\C#\session4\obj\Debug\netcoreapp2.0\session4.AssemblyInfoInputs.cache
+C:\Users\Carlos\repos\C#\session4\obj\Debug\netcoreapp2.0\session4.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Carlos\repos\c#\lastsession\bin\Debug\netcoreapp2.0\lastsession.deps.json
+C:\Users\Carlos\repos\c#\lastsession\bin\Debug\netcoreapp2.0\lastsession.runtimeconfig.json
+C:\Users\Carlos\repos\c#\lastsession\bin\Debug\netcoreapp2.0\lastsession.runtimeconfig.dev.json
+C:\Users\Carlos\repos\c#\lastsession\bin\Debug\netcoreapp2.0\lastsession.dll
+C:\Users\Carlos\repos\c#\lastsession\bin\Debug\netcoreapp2.0\lastsession.pdb
+C:\Users\Carlos\repos\c#\lastsession\obj\Debug\netcoreapp2.0\lastsession.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\repos\c#\lastsession\obj\Debug\netcoreapp2.0\lastsession.AssemblyInfoInputs.cache
+C:\Users\Carlos\repos\c#\lastsession\obj\Debug\netcoreapp2.0\lastsession.AssemblyInfo.cs
+C:\Users\Carlos\repos\c#\lastsession\obj\Debug\netcoreapp2.0\lastsession.dll
+C:\Users\Carlos\repos\c#\lastsession\obj\Debug\netcoreapp2.0\lastsession.pdb
+C:\Users\Carlos\repos\c#\lastsession\obj\Debug\netcoreapp2.0\lastsession.csprojResolveAssemblyReference.cache
